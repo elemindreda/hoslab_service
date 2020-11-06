@@ -89,8 +89,6 @@ def shutdownprogram():
 ##    filen = 'Test'+str(now.day)+'-'+str(now.month)+'.xlsx'
 ##    dgc06.internaldoc(filen,spspfilepath,rprelayfilepath,syssystemfilepath,author,projectname,optionalheading)
 ##    mygui.destroy()
-tstetssdd
-
 def create():
     global spspfilepath
     global rprelayfilepath
