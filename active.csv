@@ -1,0 +1,22 @@
+,Device,Address,Active,Unlock,Nomenclature,Gas Type,Unit,Measuring Range,Threshold1,CV1,AF1,Threshold2,CV2,AF2,Threshold3,CV3,AF3,Threshold4,CV4,AF4,Hysteresis,CV alarm on-delay,CV alarm off-delay,AV Overlay,Latching1,Latching2,Latching3,Latching4,Fault1,Fault2,Fault3,Fault4,Device.1,Alarm1,Device.2,Alarm2,Device.3,Alarm3,Device.4,Alarm4,AO1,AO2
+0,DP,1,1,1,3400,Methane,%LEL,100,15.0,1,0,15.0,1,0,25.0,1,0,25.0,1,0,1.1,20,0,0,1,1,1,1,0,0,0,0,AR,AR 3,AR,AR 5,AR,AR 6,SR,SR 51,0,0
+1,DP,2,1,1,1110,Carbon monoxide,ppm,150,20.0,1,0,20.0,1,0,30.0,1,0,30.0,1,0,1.8,20,0,0,1,1,1,1,0,0,0,0,AR,AR 2,AR,AR 5,AR,AR 6,SR,SR 53,0,0
+2,DP,3,1,1,1195,Oxygen,%Vol,25,19.5,1,1,19.5,1,1,18.5,1,1,18.5,1,1,1.15,30,0,0,1,1,1,1,0,0,0,0,AR,AR 4,AR,AR 5,AR,AR 6,SR,SR 50,0,0
+3,DP,4,1,1,3400,Methane,%LEL,100,15.0,1,0,15.0,1,0,25.0,1,0,25.0,1,0,1.1,20,0,0,1,1,1,1,0,0,0,0,AR,AR 3,AR,AR 5,AR,AR 6,SR,SR 51,0,0
+4,DP,5,1,1,1110,Carbon monoxide,ppm,150,20.0,1,0,20.0,1,0,30.0,1,0,30.0,1,0,1.8,20,0,0,1,1,1,1,0,0,0,0,AR,AR 2,AR,AR 5,AR,AR 6,SR,SR 53,0,0
+5,DP,6,1,1,1195,Oxygen,%Vol,25,19.5,1,1,19.5,1,1,18.5,1,1,18.5,1,1,1.15,30,0,0,1,1,1,1,0,0,0,0,AR,AR 4,AR,AR 5,AR,AR 6,SR,SR 50,0,0
+6,DP,7,1,1,3400,Methane,%LEL,100,15.0,1,0,15.0,1,0,25.0,1,0,25.0,1,0,1.1,0,0,0,1,1,0,1,0,0,0,0,AR,AR 3,AR,AR 5,AR,AR 6,SR,SR 51,0,0
+7,DP,8,1,1,1110,Carbon monoxide,ppm,150,20.0,1,0,20.0,1,0,30.0,1,0,30.0,1,0,1.8,20,0,0,1,1,1,1,0,0,0,0,AR,AR 3,AR,AR 5,AR,AR 6,SR,SR 53,0,0
+8,DP,9,1,1,1195,Oxygen,%Vol,25,19.5,1,1,19.5,1,1,18.5,1,1,18.5,1,1,1.15,30,0,0,1,1,1,1,0,0,0,0,AR,AR 4,AR,AR 5,AR,AR 6,SR,SR 50,0,0
+113,AP,18,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+114,AP,19,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+115,AP,20,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+116,AP,21,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+117,AP,22,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+118,AP,23,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+119,AP,24,1,1,1110,Carbon monoxide,ppm,150,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,9.3,0,0,1,0,0,0,0,0,0,0,0,AR,AR 0,AR,AR 0,AR,AR 0,AR,AR 0,0,0
+121,AP,26,1,1,1110,Carbon monoxide,ppm,300,30.0,0,0,60.0,0,0,150.0,1,0,150.0,1,0,10.0,0,0,0,0,0,0,0,0,0,0,0,AR,AR 1,AR,AR 2,AR,AR 3,AR,AR 4,1,2
+122,AP,27,1,1,1110,Carbon monoxide,ppm,300,30.0,0,0,60.0,0,0,150.0,1,0,150.0,1,0,10.0,0,0,0,0,0,0,0,0,0,0,0,AR,AR 1,AR,AR 2,AR,AR 3,AR,AR 4,1,2
+123,AP,28,1,1,1110,Carbon monoxide,ppm,300,30.0,0,0,60.0,0,0,150.0,1,0,150.0,1,0,10.0,0,0,0,0,0,0,0,0,0,0,0,AR,AR 1,AR,AR 2,AR,AR 3,AR,AR 4,1,2
+124,AP,29,1,1,1110,Carbon monoxide,ppm,300,30.0,0,0,60.0,0,0,150.0,1,0,150.0,1,0,10.0,0,0,0,0,0,0,0,0,0,0,0,AR,AR 1,AR,AR 2,AR,AR 3,AR,AR 4,1,2
+125,AP,30,1,1,1110,Carbon monoxide,ppm,300,30.0,0,0,60.0,0,0,150.0,1,0,150.0,1,0,10.0,0,0,0,0,0,0,0,0,0,0,0,AR,AR 1,AR,AR 2,AR,AR 3,AR,AR 4,1,2

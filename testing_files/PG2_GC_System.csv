@@ -1,0 +1,47 @@
+Power On Time [sec.];2;;;
+Error Time [sec.];0;;;
+Maintenance interval [days];0;;;
+Average time [sec.];900;;;
+Average value overlay time [sec.];0;;;
+Average value overlay data [ppm];0;;;
+Analog outputs;Range (%);AV(0) / CV(1);Function (0=min. | 1=av. | 2=max.);
+AO1;0;1;2;
+AO2;0;1;2;
+AO3;0;1;2;
+AO4;0;1;2;
+AO5;0;1;2;
+AO6;0;1;2;
+AO7;0;1;2;
+AO8;0;1;2;
+AO9;0;1;2;
+AO10;0;1;2;
+AO11;0;1;2;
+AO12;0;1;2;
+AO13;0;1;2;
+AO14;0;1;2;
+AO15;0;1;2;
+AO16;0;1;2;
+Relays multiplication;Device;IN;Device;OUT
+1;SR;51;SR;54
+2;AR;3;SR;77
+3;AR;4;SR;75
+4;AR;2;SR;65
+5;SR;51;SR;53
+6;SR;0;SR;0
+7;SR;0;SR;0
+8;SR;0;SR;0
+9;SR;0;SR;0
+10;SR;0;SR;0
+11;SR;0;SR;0
+12;SR;0;SR;0
+13;SR;0;SR;0
+14;SR;0;SR;0
+15;SR;0;SR;0
+16;SR;0;SR;0
+17;SR;0;SR;0
+18;SR;0;SR;0
+19;SR;0;SR;0
+20;SR;0;SR;0
+Input configuration;;;;
+Connection Method; ; ; ;
+Special Function;0;;;
